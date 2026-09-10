@@ -9,7 +9,7 @@ Answer questions in **Field Study** to earn grant credits, spend them at
 
 ## Play
 
-Open `product-thinking-quest.html` in any modern browser. No build step, no server,
+Open `index.html` in any modern browser. No build step, no server,
 no dependencies to install — everything (styles, logic, content) lives in the one file.
 Web fonts are pulled from Google Fonts, so first load looks best online.
 
@@ -39,5 +39,5 @@ browser starts you from scratch.
 ## Structure
 
 ```
-product-thinking-quest.html   the entire game
+index.html   the entire game
 ```
