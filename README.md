@@ -9,6 +9,8 @@ Answer questions in **Field Study** to earn grant credits, spend them at
 
 ## Play
 
+**Play it here: https://earendelnat.github.io/quiz-app/** — no install, works on phone or laptop.
+
 Open `index.html` in any modern browser. No build step, no server,
 no dependencies to install — everything (styles, logic, content) lives in the one file.
 Web fonts are pulled from Google Fonts, so first load looks best online.
